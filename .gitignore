@@ -1,0 +1,5 @@
+.jpg
+.png
+dataset
+imprep
+detectron2/datasets/*.jpg
